@@ -79,5 +79,3 @@ C:\Users\calm2\OneDrive\Documentos\CRUD API\Employees\obj\Debug\net7.0\Employees
 C:\Users\calm2\OneDrive\Documentos\CRUD API\Employees\obj\Debug\net7.0\Employees.genruntimeconfig.cache
 C:\Users\calm2\OneDrive\Documentos\CRUD API\Employees\obj\Debug\net7.0\ref\Employees.dll
 C:\Users\calm2\OneDrive\Documentos\CRUD API\Employees\bin\Debug\net7.0\database.rules.json
-C:\Users\calm2\OneDrive\Documentos\CRUD API\Employees\bin\Debug\net7.0\functions\package-lock.json
-C:\Users\calm2\OneDrive\Documentos\CRUD API\Employees\bin\Debug\net7.0\functions\package.json
