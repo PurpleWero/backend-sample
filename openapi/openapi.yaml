@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: Employees
+  description: API CRUD
+  contact:
+    name: Cristian Almanza
+    email: calm2312@hotmail.com
+  license:
+    name: CALM@2023
+  version: v1
+paths:
+  /api/Employees:
+    $ref: paths/api@Employees.yaml
+  '/api/Employees/{id}':
+    $ref: 'paths/api@Employees@{id}.yaml'
